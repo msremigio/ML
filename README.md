@@ -20,7 +20,7 @@
 
 ## Projetos:
 
-* **Machine Learning: Handwritten Digits Recognition: **
+* **Machine Learning: Handwritten Digits Recognition:**
 ---
 
 ## About me:
