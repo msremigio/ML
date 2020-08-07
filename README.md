@@ -21,9 +21,7 @@
 ## Projetos:
 
 
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2SBpnJM
-* **Data Science: Machine Learning para detecção do câncer de mama:** https://bit.ly/2ui4ewf
-* **Data Science: Análise exploratória: Airbnb Chicago:** https://bit.ly/2POpssY
+* **Machine Learning: Handwritten Digits Recognition
 ---
 
 ## About me:
