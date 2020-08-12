@@ -1,11 +1,12 @@
-This data base is available at: https://github.com/zalandoresearch/fashion-mnist#license
+This data base is available at: [github.com/zalandoresearch/fashion-mnist#license](https://github.com/zalandoresearch/fashion-mnist#license)
 
 All the information necessary to manipulate and use this data set can be found at the same website above.
 
-**Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. Han Xiao, Kashif Rasul, Roland Vollgraf. arXiv:1708.07747**
+**Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. Han Xiao, Kashif Rasul, Roland Vollgraf. arXiv:1708.07747 **
 
-**License:**
-The MIT License (MIT) Copyright © [2017] Zalando SE, https://tech.zalando.com
+**License: **
+
+The MIT License (MIT) Copyright © [2017] Zalando SE, [https://tech.zalando.com](https://tech.zalando.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
