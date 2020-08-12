@@ -21,6 +21,7 @@
 ## Projetos:
 
 * **Machine Learning: Handwritten Digits Recognition:** https://bit.ly/3fD0FSR
+* **Machine Learning: Classifying Pieces of Clothes with Zalado's Fashion-MNIST data set:** https://bit.ly/3iJy0O7
 ---
 
 ## About me:
